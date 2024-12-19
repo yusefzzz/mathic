@@ -12,26 +12,39 @@ List of objectives for this project (ALL MET):
     b.	Teachers have a maximum number of classes they can create, and students have a maximum number of classes they can join.
 
 5.	Game mode “levels” where each level is a subtopic within a wider topic in the GCSE Mathematics specification.
-    a.	Store student’s progress when logging out.
-    b.	Block next level until current level is done (only for students)
-    c.	Award a number of stars when the user has completed a level (only for students).
-    d.	Make any level playable if the user is a teacher.
+
+  	a.	Store student’s progress when logging out.
+
+  	b.	Block next level until current level is done (only for students)
+
+  	c.	Award a number of stars when the user has completed a level (only for students).
+
+  	d.	Make any level playable if the user is a teacher.
 
 6.	Different style questions (e.g., entry, selection, “yes” or “no”).
-    a.	Display each question in a different way according to its type.
-    b.	Allow answers to be entered in different ways.
-      i.	Allow answers with multiple commas to ignore spaces between the commas.
-      ii.	For multiple choice questions, allow options to be selected in any order and still award a correct answer as long as the right options are selected.
+
+  	a.	Display each question in a different way according to its type.
+
+  	b.	Allow answers to be entered in different ways.
+
+  	    i.	Allow answers with multiple commas to ignore spaces between the commas.
+
+  	    ii.	For multiple choice questions, allow options to be selected in any order and still award a correct answer as long as the right options are selected.
 
 7.	Allow interface colours to be customisable.
-    a.	Include a variety of different border and button colours.
-    b.	App should automatically restart after changing the theme without having to log in again.
+
+  	a.	Include a variety of different border and button colours.
+
+  	b.	App should automatically restart after changing the theme without having to log in again.
 
 8.	Allow users to change their password.
-    a.	This should be achieved by sending a verification email to the student with a unique verification code.
+
+   	a.	This should be achieved by sending a verification email to the student with a unique verification code.
 
 9.	Store the number of questions solved and the number of questions right of a student in an online database.
-    a.	Store the number of questions if the student decides to quit the current level they are playing.
+
+   	a.	Store the number of questions if the student decides to quit the current level they are playing.
 
 10.	Allow a user to continue playing (levels) from where they stopped last time.
-    a.	This should be in the form of a shortcut on the dashboard/main window.
+
+   	a.	This should be in the form of a shortcut on the dashboard/main window.
